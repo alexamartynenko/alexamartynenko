@@ -52,9 +52,6 @@ Focused on:
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexamartynenko&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=alexamartynenko&theme=tokyonight&hide_border=true" />
 </p>
 
