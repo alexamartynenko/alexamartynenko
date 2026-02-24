@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Alexandra+Martynenko;Mobile+AI+Apps+Builder;AI+Product+Founder;Scaling+Apps+Globally" />
 </p>
 
----
+📍 SPB | USA | BUILD IFINDED.AI Jexor Mobille App Studio + Services for APPS (Traffic, ASO, Replay)
 
 ## 📱HEY I'm ALEXA. 12 years in AFFILIATE MARKETING MARKET.
 MORE 12 years exp)
@@ -55,7 +55,10 @@ Focused on:
   <img src="https://streak-stats.demolab.com?user=alexamartynenko&theme=tokyonight&hide_border=true" />
 </p>
 
----
+##    Recognition
+[Berkeley Entrepreneurship For All (Part I): The UC Berkeley Startup Guide for students by Silicon Valley Insiders](https://courses.edx.org/certificates/7a43b91215ed48cd88ec25a18a9cc052?_gl=1*16jdg6v*_gcl_au*MzE4NzU4MTY1LjE3Njk0MjM4NDM.*_ga*MTQyMjE5ODIuMTc2OTQyMzY0Mw..*_ga_D3KS4KMDT0*czE3NzE5NTQxMjckbzckZzEkdDE3NzE5NTQxNzIkajE1JGwwJGgw)
+[International speaker (See my talks)](https://www.youtube.com/watch?v=mNE85KXTpGM&t=745s&pp=ygUf0LzQsNGA0YLRi9C90LXQvdC60L4g0LrQuNC90LfQsNIHCQmiCgGHKiGM7w%3D%3D)
+
 
 ## 🤝 Connect
 
