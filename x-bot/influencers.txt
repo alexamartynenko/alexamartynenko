@@ -1,0 +1,7 @@
+# Priority A from influencers-v1. One handle per line; check each one exists before relying on it.
+@AlexHormozi
+@harrydry
+@gregisenberg
+@levelsio
+@charlesngo
+@thenotcoin
